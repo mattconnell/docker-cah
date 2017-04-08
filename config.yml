@@ -1,0 +1,13 @@
+# Administrator password
+admin_password: asdf
+
+# Websocket configuration
+websocket_domain: servername.tld
+websocket_port: 8765
+
+# Web server configuration
+server_domain: servername.tld
+server_port: 8765
+server_proxy_port: 8765
+server_interface: ""
+
